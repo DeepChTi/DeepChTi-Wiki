@@ -1,0 +1,13 @@
+{
+  "name": "deepchti-wiki",
+  "version": "1.0.0",
+  "description": "努力制作一个关于Minecraft,AI领域,计算机编程的百科网站",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "vuepress dev docs",
+      "build": "vuepress build docs"
+  },
+  "author": "DeepChTi",
+  "license": "ISC"
+}
